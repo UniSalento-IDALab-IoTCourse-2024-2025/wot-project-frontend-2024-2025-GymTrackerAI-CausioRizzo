@@ -39,7 +39,10 @@ GymTrackerAI è un'app Android sviluppata in **Kotlin** con **Jetpack Compose**,
 
 ## Repository Correlati
 
-- Frontend (questo repo): [github.com/tuo-user/gymtracker-frontend](https://github.com/tuo-user/gymtracker-frontend)
-- Backend: [github.com/tuo-user/gymtracker-backend](https://github.com/tuo-user/gymtracker-backend)
-- Machine Learning: [github.com/tuo-user/gymtracker-ml](https://github.com/tuo-user/gymtracker-ml)
+- Frontend (questo repo):
+  (https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-frontend-2024-2025-GymTrackerAI-CausioRizzo)
+- Backend:
+  (https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-backend-2024-2025-GymTrackerAI-CausioRizzo)
+- Machine Learning:
+  (https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-machine_learning-2024-2025-GymTrackerAI-CausioRizzo)
 
