@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.StDemo" parent="Theme.Material3.Light">
+
+        <!-- SplashScreen Personalizzata -->
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+
+    </style>
+
+    <style name="Theme.StDemo.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.StDemo.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.StDemo.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
