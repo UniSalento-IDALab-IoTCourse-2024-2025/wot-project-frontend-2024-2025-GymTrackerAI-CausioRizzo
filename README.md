@@ -4,7 +4,7 @@
 
 ## Descrizione Generale
 
-GymTrackerAI è un'app Android sviluppata in **Kotlin** con **Jetpack Compose**, progettata per monitorare e classificare esercizi fisici utilizzando il sensore **SensorTile.Box PRO** via **Bluetooth Low Energy (BLE)**. I dati acquisiti vengono inviati in tempo reale al backend, che li elabora tramite un modello di Machine Learning esterno per riconoscere l'esercizio svolto.
+GymTrackerAI è un'app Android sviluppata in **Kotlin** con **Jetpack Compose**, progettata per monitorare e classificare esercizi fisici utilizzando uno **smartphone Android** e il sensore **SensorTile.Box PRO** via **Bluetooth Low Energy (BLE)**. I dati acquisiti vengono inviati in tempo reale al backend, che li elabora tramite un modello di Machine Learning esterno per riconoscere l'esercizio svolto.
 
 ---
 
