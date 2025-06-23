@@ -136,7 +136,7 @@ fun InfoScreen(navController: NavController) {
                     Text(
                         text = "• Riconoscimento in tempo reale delle attività sopra elencate.\n" +
                                 "• Conteggio preciso delle ripetizioni e del tempo di ogni esercizio.\n" +
-                                "• Storico giornaliero e settimanale delle performance.\n" +
+                                "• Storico giornaliero delle performance.\n" +
                                 "• Supporto sia per SensorTile.Box PRO che per sensori integrati nello smartphone.",
                         color = Color.White,
                         fontSize = 15.sp
